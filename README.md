@@ -1,2 +1,2 @@
-# Scripts
-A collection of useful scripts for Windows &amp; Linux
+# Favorites
+收藏夹
